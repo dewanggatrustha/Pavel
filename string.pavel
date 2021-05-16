@@ -1,0 +1,4 @@
+TOKKE "Hello Dunia!"
+
+a= "Testing123"
+TOKKE a

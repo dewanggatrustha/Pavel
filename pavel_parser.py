@@ -88,6 +88,10 @@ class PavelParser(Parser):
     @_('PRINT STRING')
     def statement(self, p):
         return ('print', p.STRING)
+        
+    @_('PRINT ERROR')
+    def statement(self,p):
+        print ("Syntax error in print statement. Bad expression.")
 
 if __name__ == '__main__':
     lexer = pavel_lexer.PavelLexer()

@@ -52,7 +52,7 @@ This language has the extension .pavel
 
 **Follow this steps carefully**
 1. Open terminal with the directory leads to Pavel folder `cd .../Pavel/`
-2. Then type command `python main.py (namafile).pavel`
+2. Then type command `python main.py (filename).pavel`
 
 Example :
 ```

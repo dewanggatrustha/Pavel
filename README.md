@@ -2,7 +2,7 @@
 
 ## ID - Indonesian
 
-Pavel merupakan bahasa pemrograman berbasis Python yang dibuat menggunakan SLY Library ((https://sly.readthedocs.io/en/latest/sly.html).
+Pavel merupakan bahasa pemrograman berbasis Python yang dibuat menggunakan SLY Library (https://sly.readthedocs.io/en/latest/sly.html).
 
 Bahasa ini memiliki ekstensi .pavel
 
@@ -31,7 +31,7 @@ python main.py aritmatika.pavel
 ```
 ## EN - English 
 
-Pavel is a programming language based on Python that created using the SLY Library ((https://sly.readthedocs.io/en/latest/sly.html).
+Pavel is a programming language based on Python that created using the SLY Library (https://sly.readthedocs.io/en/latest/sly.html).
 
 This language has the extension .pavel
 
